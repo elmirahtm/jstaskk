@@ -3,3 +3,4 @@
 let km = prompt("km daxil edin");
 let size = km*0.6214 ;
 alert(size);
+// document.write(size);
